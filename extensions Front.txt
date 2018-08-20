@@ -1,0 +1,72 @@
+
+-- angular
+code --install-extension johnpapa.Angular2
+code --install-extension jakethashi.vscode-angular2-emmet
+code --install-extension infinity1207.angular2-switcher
+
+-- aurelia
+code --install-extension aureliaeffect.aurelia
+code --install-extension behzad88.aurelia
+
+
+-- ionic
+code --install-extension oudzy.ionic2-snippets
+code --install-extension siteslave.ionic3-snippets
+
+
+-- react
+code --install-extension vsmobile.vscode-react-native
+
+
+-- html-css
+code --install-extension formulahendry.auto-close-tag
+code --install-extension ecmel.vscode-html-css
+code --install-extension abusaidm.html-snippets
+code --install-extension bradgashler.htmltagwrap
+code --install-extension Zignd.html-css-class-completion
+
+
+-- EcmaScript
+code --install-extension dbaeumer.vscode-eslint
+
+
+-- javascript and typescript
+code --install-extension sourcegraph.javascript-typescript
+code --install-extension eg2.tslint
+code --install-extension rbbit.typescript-hero
+
+
+-- npm
+code --install-extension fknop.vscode-npm
+code --install-extension christian-kohler.npm-intellisense
+code --install-extension eg2.vscode-npm-script
+
+-- node
+code --install-extension ms-vscode.node-debug2
+
+-- others
+code --install-extension steoates.autoimport
+code --install-extension msjsdiag.debugger-for-chrome
+code --install-extension bibhasdn.git-easy
+code --install-extension donjayamanne.githistory
+code --install-extension ms-vscode.jscs
+code --install-extension coderfee.open-html-in-browser
+code --install-extension christian-kohler.path-intellisense
+code --install-extension swyphcosmo.spellchecker
+code --install-extension robertohuertasm.vscode-icons
+code --install-extension MattiasPernhult.vscode-todo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
