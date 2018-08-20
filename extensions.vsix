@@ -1,0 +1,61 @@
+
+code --list-extensions
+
+code --install-extension abusaidm.html-snippets
+code --install-extension AureliaEffect.aurelia
+code --install-extension behzad88.aurelia
+code --install-extension bibhasdn.git-easy
+code --install-extension donjayamanne.githistory
+code --install-extension bradgashler.htmltagwrap
+code --install-extension caolin.java-run
+code --install-extension christian-kohler.npm-intellisense
+code --install-extension christian-kohler.path-intellisense
+code --install-extension coderfee.open-html-in-browser
+code --install-extension dbaeumer.vscode-eslint
+code --install-extension ecmel.vscode-html-css
+code --install-extension eg2.tslint
+code --install-extension eg2.vscode-npm-script
+code --install-extension felixfbecker.php-debug
+code --install-extension fknop.vscode-npm
+code --install-extension formulahendry.auto-close-tag
+code --install-extension formulahendry.code-runner
+code --install-extension ikappas.phpcs
+code --install-extension infinity1207.angular2-switcher
+code --install-extension johnpapa.Angular2
+code --install-extension jakethashi.vscode-angular2-emmet
+code --install-extension MattiasPernhult.vscode-todo
+code --install-extension ms-mssql.mssql
+code --install-extension ms-python.python
+code --install-extension ms-vscode.jscs
+code --install-extension ms-vscode.csharp
+code --install-extension ms-vscode.node-debug2
+code --install-extension ms-vsts.team
+code --install-extension msjsdiag.debugger-for-chrome
+code --install-extension rbbit.typescript-hero
+code --install-extension redhat.java
+code --install-extension robertohuertasm.vscode-icons
+code --install-extension Shan.code-settings-sync
+code --install-extension sourcegraph.javascript-typescript
+code --install-extension steoates.autoimport
+code --install-extension swyphcosmo.spellchecker
+code --install-extension vscjava.vscode-java-pack
+code --install-extension vscjava.vscode-java-debug
+code --install-extension vscjava.vscode-java-test
+code --install-extension vsmobile.vscode-react-native
+code --install-extension Zignd.html-css-class-completion
+
+
+more info --> https://code.visualstudio.com/docs/editor/extension-gallery
+
+
+
+
+
+
+
+
+
+
+
+
+
